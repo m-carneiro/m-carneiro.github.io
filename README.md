@@ -4,7 +4,7 @@ Site estático em português e inglês. O visual do currículo é preservado, e 
 
 ## Publicação
 
-GitHub Pages: https://m-carneiro.github.io/matheus-portfolio/
+GitHub Pages: https://m-carneiro.github.io/
 
 O workflow `.github/workflows/pages.yml` testa, gera e publica o site a cada commit em `main`. Pull requests executam as mesmas verificações sem publicar. No GitHub, a fonte em **Settings → Pages → Build and deployment → Source** deve estar em **GitHub Actions**.
 
